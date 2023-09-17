@@ -1,0 +1,12 @@
+POST http://localhost:3333/prompt
+
+
+####
+POST http://localhost:3333/image/865219d6-2535-47e6-82d8-b4d65611b0b2/path
+
+
+####
+GET http://localhost:3333/fileimage/865219d6-2535-47e6-82d8-b4d65611b0b2
+
+
+
